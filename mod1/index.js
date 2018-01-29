@@ -13,4 +13,4 @@ class MultiModulesDemo extends Component {
   }
 }
 
-export default ModuleDemo;
+export default MultiModulesDemo;
